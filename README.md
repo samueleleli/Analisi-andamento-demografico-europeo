@@ -9,4 +9,8 @@ Nello specifico, il programma traccia l'andamento della popolazione ricavandone 
 * `Interpolazione tramite splines`: Utilizzata per ricavare i punti intermedi dei valori sia per l'andamento della popalazione che per il tasso di crescita.  
 * `Derivazione con formula a 3 punti`: Utilizzata per calcolare la derivata dell'andamento della popolazione e del tasso di crescita in modo da determinare i punti di massimo e minimo.
 * `Metodo di bisezione`: Utilizzato per determinare gli zeri della derivata in modo da ricavare i punti di massimo e minimo relativo.  
- 
+
+## Risultati ottenuti
+
+![alt text](https://drive.google.com/uc?export=view&id=1DrwhwLqdACC0a8lUncYmpL67x5m1gOSA)
+![alt text](https://drive.google.com/uc?export=view&id=1KWUg_9mON6fSK824MYrSBGa3BPXmKBwe)
