@@ -1,16 +1,16 @@
-# Analisi demografica della popolazione europea
+# Demographic analysis of the European population
 
-Programma realizzato per mettere in pratica le tecniche di analisi numerica acquisite attraverso un esercizio dato dal Professor Demeio Lucio.
-L'esercizio consiste nell'analisi dell'andamento demografico della popolazione europea tra il 1950 e 2015 attraverso una tabella che ne riporta il numero della popolazione ogni 5 anni (in allegato il testo dell'esercizio).
-Nello specifico, il programma traccia l'andamento della popolazione ricavandone punti di massimo e minimo relativo e assoluto, inoltre, il programma ricava il tasso di crescita dando informazioni sulla velocità di crescita della popolazione nell'arco del tempo.
+Program created to put into practice the numerical analysis techniques acquired through an exercise given by Professor Demeio Lucio (UNIVPM).
+The exercise consists of analyzing the demographic trend of the European population between 1950 and 2015 through a table showing the population numbers every 5 years (text of the exercise attached).
+Specifically, the program plots the population trend by deriving relative and absolute maximum and minimum points; in addition, the program derives the growth rate giving information on the speed of population growth over time.
 
-## Tecniche di analisi numerica utilizzate e applicazione nell'esercizio:
+## Numerical analysis techniques used and application in the exercise:
 
-* `Interpolazione tramite splines`: Utilizzata per ricavare i punti intermedi dei valori sia per l'andamento della popalazione che per il tasso di crescita.  
-* `Derivazione con formula a 3 punti`: Utilizzata per calcolare la derivata dell'andamento della popolazione e del tasso di crescita in modo da determinare i punti di massimo e minimo.
-* `Metodo di bisezione`: Utilizzato per determinare gli zeri della derivata in modo da ricavare i punti di massimo e minimo relativo.  
+* `Interpolation by splines`: Used to derive midpoints of values for both popalation trend and growth rate.  
+* `Derivation by 3-point formula`: Used to calculate the derivative of the population trend and growth rate in order to determine the maximum and minimum points.
+* `Bisection method`: Used to determine the zeros of the derivative so as to get the points of relative maximum and minimum.  
 
-## Risultati ottenuti
+## Results obtained
 
 ![alt text](https://drive.google.com/uc?export=view&id=1DrwhwLqdACC0a8lUncYmpL67x5m1gOSA)
 ![alt text](https://drive.google.com/uc?export=view&id=1KWUg_9mON6fSK824MYrSBGa3BPXmKBwe)
